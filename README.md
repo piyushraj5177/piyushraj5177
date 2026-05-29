@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushraj5177&label=Profile%20views&color=0e75b6&style=flat" alt="piyushraj5177" /> </p>
 
-- 🌱 I’m currently learning **Web Development and My Sql**
+- 🌱 I’m currently learning **Data Analytics and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyushraj5177](https://github.com/piyushraj5177)
 
